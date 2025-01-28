@@ -1,1 +1,3 @@
 # Ortogonalizador
+
+Rodar Teste3 
